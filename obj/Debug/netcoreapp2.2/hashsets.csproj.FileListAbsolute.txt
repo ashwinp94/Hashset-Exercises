@@ -1,0 +1,11 @@
+C:\Users\ashp9\backend\workspace\hashsets\bin\Debug\netcoreapp2.2\hashsets.deps.json
+C:\Users\ashp9\backend\workspace\hashsets\bin\Debug\netcoreapp2.2\hashsets.runtimeconfig.json
+C:\Users\ashp9\backend\workspace\hashsets\bin\Debug\netcoreapp2.2\hashsets.runtimeconfig.dev.json
+C:\Users\ashp9\backend\workspace\hashsets\bin\Debug\netcoreapp2.2\hashsets.dll
+C:\Users\ashp9\backend\workspace\hashsets\bin\Debug\netcoreapp2.2\hashsets.pdb
+C:\Users\ashp9\backend\workspace\hashsets\obj\Debug\netcoreapp2.2\hashsets.csprojAssemblyReference.cache
+C:\Users\ashp9\backend\workspace\hashsets\obj\Debug\netcoreapp2.2\hashsets.csproj.CoreCompileInputs.cache
+C:\Users\ashp9\backend\workspace\hashsets\obj\Debug\netcoreapp2.2\hashsets.AssemblyInfoInputs.cache
+C:\Users\ashp9\backend\workspace\hashsets\obj\Debug\netcoreapp2.2\hashsets.AssemblyInfo.cs
+C:\Users\ashp9\backend\workspace\hashsets\obj\Debug\netcoreapp2.2\hashsets.dll
+C:\Users\ashp9\backend\workspace\hashsets\obj\Debug\netcoreapp2.2\hashsets.pdb
